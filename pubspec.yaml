@@ -1,0 +1,33 @@
+name: movieapp_200561
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/1.png
+    - assets/2.png
+    - assets/3.png
+    - assets/zelda3.jpg
+    - assets/logo.png
+      
+  fonts:
+    - family: letra
+      fonts:
+        - asset: assets/canveat.ttf
