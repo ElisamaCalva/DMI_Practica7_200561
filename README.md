@@ -30,8 +30,8 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Tarea 5 Aplicación en Flutter y StatelesWidgets |
-| Descripción  | Esta aplicación con el nombre de “Implementación de imágenes a aplicación Stateful” fue creada con Flutter con la finalidad de poder mostrar un ejemplo senisllo de una aplicación que utilice un botón personalizado para poder cambiar de imagenes y un carrusel para también poder cambiar de imágenes. El botón cambia su texto cada vez que el usuario presiona, y el carrusel de imágenes permite al usuario se desplazarse a través de una serie de imágenes. La aplicación utiliza un StatefulWidget para poder mantener el estado interno y demostrar cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.  |
-|  Fecha de Carga | 21/09/23  |
+| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de cambio de fuente y iconos en una aplicación en el cual se tiene que presentar un Drawer y un bottomNavigationBar. En base a estas caracteristicas que tiene que llevar la aplicacion, se tubo que hacer un cambio de fuentes de preferencia de google fonts ya que este es un servicio de distribución de fuentes tipográficas propiedad de Google. Incluye una amplia biblioteca de fuentes de código abierto, un directorio web interactivo para navegar por la biblioteca y una API para usar las fuentes a través de CSS​ y Android., y tambien hacerle un cambio de iconos de nuestra preferencia.  |
+|  Fecha de Carga | 25/09/23  |
 
 &nbsp;
 &nbsp;
